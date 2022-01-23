@@ -21,3 +21,10 @@ In this version I will implement all but the most difficult modules. I will also
 ### Version 1.0
 
 In this version I will integrate machine learning functionality and create a tone transfer module. 
+
+### Version 1.0 + n * 0.1
+ - Amazing reverb
+ - Amazing delay
+ - Advanced amp models and amp designer
+ - Advanced violin/viola/cello models
+ - Advanced guitar models
