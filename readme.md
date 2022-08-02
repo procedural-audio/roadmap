@@ -5,12 +5,17 @@ This repository is the home for the metasampler roadmap.
 ---
 
 ### Versions
- - [x] Version 0.5: Implement base UI and backend
- - [ ] Version 0.6: Implement control and time modules
- - [ ] Version 0.7: Implement sequencing modules
- - [ ] Version 0.8: Implement audio effects modules
- - [ ] Version 0.9: Implement sampling and oscillator modules
- - [ ] Version 1.0: Finish advanced modules
+ - [x] Version 0.0: Implement base UI and backend
+ - [ ] Version 0.1: Implement control and time modules
+ - [ ] Version 0.2: Implement sequencing modules
+ - [ ] Version 0.3: Implement audio effects modules
+ - [ ] Version 0.4: Implement UI builder
+ - [ ] Version 0.5: Finish menus. State saving/loading. 
+ - [ ] Version 0.6: Finish patching view interface
+ - [ ] Version 0.7: Implement developer tools
+ - [ ] Version 0.8: Implement sampling and oscillator modules
+ - [ ] Version 0.9: Finish frontend
+ - [ ] Version 1.0: Finish and optimize everything
 
 ---
 
